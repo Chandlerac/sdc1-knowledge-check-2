@@ -1,0 +1,15 @@
+C:\Users\ccpli\OneDrive\Documents\Projects\sdc1-knowledge-check-2\check2\bin\Debug\net8.0\check2.exe
+C:\Users\ccpli\OneDrive\Documents\Projects\sdc1-knowledge-check-2\check2\bin\Debug\net8.0\check2.deps.json
+C:\Users\ccpli\OneDrive\Documents\Projects\sdc1-knowledge-check-2\check2\bin\Debug\net8.0\check2.runtimeconfig.json
+C:\Users\ccpli\OneDrive\Documents\Projects\sdc1-knowledge-check-2\check2\bin\Debug\net8.0\check2.dll
+C:\Users\ccpli\OneDrive\Documents\Projects\sdc1-knowledge-check-2\check2\bin\Debug\net8.0\check2.pdb
+C:\Users\ccpli\OneDrive\Documents\Projects\sdc1-knowledge-check-2\check2\obj\Debug\net8.0\check2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccpli\OneDrive\Documents\Projects\sdc1-knowledge-check-2\check2\obj\Debug\net8.0\check2.AssemblyInfoInputs.cache
+C:\Users\ccpli\OneDrive\Documents\Projects\sdc1-knowledge-check-2\check2\obj\Debug\net8.0\check2.AssemblyInfo.cs
+C:\Users\ccpli\OneDrive\Documents\Projects\sdc1-knowledge-check-2\check2\obj\Debug\net8.0\check2.csproj.CoreCompileInputs.cache
+C:\Users\ccpli\OneDrive\Documents\Projects\sdc1-knowledge-check-2\check2\obj\Debug\net8.0\check2.sourcelink.json
+C:\Users\ccpli\OneDrive\Documents\Projects\sdc1-knowledge-check-2\check2\obj\Debug\net8.0\check2.dll
+C:\Users\ccpli\OneDrive\Documents\Projects\sdc1-knowledge-check-2\check2\obj\Debug\net8.0\refint\check2.dll
+C:\Users\ccpli\OneDrive\Documents\Projects\sdc1-knowledge-check-2\check2\obj\Debug\net8.0\check2.pdb
+C:\Users\ccpli\OneDrive\Documents\Projects\sdc1-knowledge-check-2\check2\obj\Debug\net8.0\check2.genruntimeconfig.cache
+C:\Users\ccpli\OneDrive\Documents\Projects\sdc1-knowledge-check-2\check2\obj\Debug\net8.0\ref\check2.dll
